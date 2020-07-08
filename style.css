@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+h1, h2, h3,.big {
+    color: rgb(21, 112, 21);
+    font-family: Bangers, monospace;
+    text-align: center;
+}
+
+.standard-text {
+    font-size: 16px;
+    color: white;
+    text-align: center;
+}
+
+.thick-green-border1{
+    border-color: rgb(21, 112, 21);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 2px;
+}
+
+.thick-green-border2{
+    border-color: rgb(21, 112, 21);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50%;
+}
