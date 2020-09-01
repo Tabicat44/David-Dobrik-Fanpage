@@ -8,6 +8,11 @@ h1, h2, h3,.big {
     text-align: center;
 }
 
+.quote-text{
+    font-size: 16px;
+    
+}
+
 .standard-text {
     font-size: 16px;
     color: white;
